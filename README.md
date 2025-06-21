@@ -47,7 +47,7 @@ Each script has a dedicated Markdown file inside the `docs/` folder with:
 - 📎 Notes and requirements
 - 🖥️ Example output (if available)
 
-The `install.ps1` script menu automatically displays the documentation before running any script.
+The `script-menu.ps1` script menu automatically displays the documentation before running any script.
 
 
 ### ▶️ Step 3: Run a Script
@@ -60,7 +60,7 @@ If you cloned the repo manually, navigate to the `scripts/` folder:
 > Note: Some scripts require Administrator privileges.  
 > Right-click PowerShell → **Run as Administrator** before running them.
 
-If you're using the menu-based installer (`install.ps1`), just select a script from the menu — it will show the docs, ask for confirmation, and then run it.
+If you're using the menu-based installer (`script-menu.ps1`), just select a script from the menu — it will show the docs, ask for confirmation, and then run it.
 
 ### 🔄 Step 4 (Optional): Modify or Extend
 
