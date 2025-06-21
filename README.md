@@ -29,7 +29,7 @@ This downloads and runs the interactive script menu. No manual setup needed.
 
 #### 💾 Option 3: Download a Single Script Manually
 
-- Go to the script (example: `scripts/serial-rename.ps1`)
+- Go to the script (example: [serial-rename](scripts/serial-rename.ps1`)
 - Click **"Raw"**
 - Right-click → **Save As** to download the `.ps1` file directly
 
@@ -39,7 +39,7 @@ Example:
 
 ### 📘 Step 2: Read the Docs
 
-Each script has a dedicated Markdown file inside the `docs/` folder with:
+Each script has a dedicated Markdown file inside the [docs](docs/) folder with:
 
 - ✅ What the script does
 - 🧪 How to use it
@@ -47,12 +47,12 @@ Each script has a dedicated Markdown file inside the `docs/` folder with:
 - 📎 Notes and requirements
 - 🖥️ Example output (if available)
 
-The `script-menu.ps1` script menu automatically displays the documentation before running any script.
+The [script-menu](script-menu.ps1) automatically displays the documentation before running any script.
 
 
 ### ▶️ Step 3: Run a Script
 
-If you cloned the repo manually, navigate to the `scripts/` folder:
+If you cloned the repo manually, navigate to the [scripts](scripts/) folder:
 
 `cd scripts`  
 `.\your-script-name.ps1`
@@ -60,7 +60,7 @@ If you cloned the repo manually, navigate to the `scripts/` folder:
 > Note: Some scripts require Administrator privileges.  
 > Right-click PowerShell → **Run as Administrator** before running them.
 
-If you're using the menu-based installer (`script-menu.ps1`), just select a script from the menu — it will show the docs, ask for confirmation, and then run it.
+If you're using the menu-based installer [script-menu](script-menu.ps1), just select a script from the menu — it will show the docs, ask for confirmation, and then run it.
 
 ### 🔄 Step 4 (Optional): Modify or Extend
 
@@ -89,11 +89,7 @@ Whether you're a beginner or a pro, feel free to:
 3. **Create a Pull Request** with a clear description
 
 Want to suggest something without coding?  
-Open an issue here:  
-`https://github.com/ImmortalX1/windows-essential-scripts/issues`
-
-The file explorer is accessible using the button in left corner of the navigation bar. You can create a new file by clicking the **New file** button in the file explorer. You can also create folders by clicking the **New folder** button.
-
+[Open an issue](https://github.com/ImmortalX1/windows-essential-scripts/issues)
 
 ## 💬 Support
 
